@@ -1,0 +1,11 @@
+Caranya nih gan:
+
+1. buka link yang ada di notepad sebelah, terus download filenya
+2. setelah didownload, buka file index.html
+3. lalu setelah masuk ke halaman login, masukkan username:admin & password:admin
+4. submit dan selamat itu adalah flag kamu. eits tapi harus di decode dulu yak dari base64 ke ascii. semangatttt!!!
+
+
+----------------------------------------------------------
+
+Clear Flag = TI404{kelompok_adit_dan_toni}
